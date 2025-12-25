@@ -1,1 +1,1 @@
-# cs-50-hello
+# hello
